@@ -7,11 +7,11 @@
 >John wants to display a test page of a service at **https://localhost:8087/test/**  
 the service is shipped through a docker container and should print "Hello World" : 
 
-![](./hello_world.png)
+![](./nginx/hello_world.png)
 
 > Unfortunately, John is not able to display that. Instead he gets:  
 
-![](./error.png)
+![](./nginx/error.png)
 
 > Can you help ?
 if yes, pull the image, test it yourself and fix the mess!
@@ -22,6 +22,6 @@ if yes, pull the image, test it yourself and fix the mess!
 
 Once it is fixed, the container will exit with a success message:  
 
-![](./ok.png)
+![](./nginx/ok.png)
 
 
