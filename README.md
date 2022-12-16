@@ -14,7 +14,7 @@ the service is shipped through a docker container and should print "Hello World"
 ![](./nginx/error.png)
 
 > Can you help ?
-if yes, pull the image, test it yourself and fix the mess!
+if yes, pull the image, exec into it and fix the mess!
 
 * `docker pull kwakousteve/alpine_nginx`  
 * `docker run -p 8087:8087 -d kwakousteve/alpine_nginx` 
